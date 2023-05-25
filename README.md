@@ -26,6 +26,8 @@ Form with footer are visible.
 Linters Installed
 -Lighthouse
 -Webhint
+-Stylelint
+
 
 ## Getting Started
 - Open GitHub URL of repositry.
