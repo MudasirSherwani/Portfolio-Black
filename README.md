@@ -25,6 +25,7 @@ Form with footer are visible.
 ## Extensions / Plugins
 Linters Installed
 -Lighthouse
+-Webhint
 
 ## Getting Started
 - Open GitHub URL of repositry.
