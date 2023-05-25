@@ -9,8 +9,6 @@ Form with footer are visible.
 
 - [Mudasir Sherwani Portfolio](https://mudasirsherwani.github.io/Portfolio-Black/)
 
-
-
 ## Working Modules
 
 - First 2 Sections are Working Toolbar and Header Section.
@@ -18,7 +16,6 @@ Form with footer are visible.
 - Contact Form Submit to https://formspree.io/
 - Footer with social icons
 - Mobile Hamburg Menu
-
 
 ## Built With
 
@@ -52,7 +49,6 @@ Linters
 - ESLint
 - node_modules checker
 - Github
-
 
 ### Deployment
 - [Linter](https://github.com/microverseinc/linters-config/tree/master/html-css)
