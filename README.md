@@ -28,6 +28,8 @@ Linters Installed
 -Webhint
 -Stylelint
 -ESLint
+-node_modules checker
+
 
 ## Getting Started
 - Open GitHub URL of repositry.
