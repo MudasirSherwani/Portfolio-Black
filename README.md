@@ -42,12 +42,6 @@ Linters Installed
 ### Prerequisites
 - Visual Studio
 - Knowldege About HTML / CSS
-Linters
-- Lighthouse
-- Webhint
-- Stylelint
-- ESLint
-- node_modules checker
 - Github
 
 ### Deployment
