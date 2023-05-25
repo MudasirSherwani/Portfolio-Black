@@ -82,3 +82,7 @@ Give a ⭐️ if you like this project!
 - microverseinc
 - Inspiration
 - etc
+
+## 📝 License
+https://github.com/MudasirSherwani/Portfolio-Black/blob/main/LICENSE.md
+This project is [MIT](./MIT.md) licensed.
