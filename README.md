@@ -27,7 +27,7 @@ Linters Installed
 -Lighthouse
 -Webhint
 -Stylelint
-
+-ESLint
 
 ## Getting Started
 - Open GitHub URL of repositry.
