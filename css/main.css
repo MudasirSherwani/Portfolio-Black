@@ -726,7 +726,7 @@
  }
  button.stroke, .button.stroke {
 	 background: transparent !important;
-	 border: 3px solid #313131;
+	 border: 3px solid #FF0077;
 	 line-height: 4.8rem;
  }
  button.stroke.medium, .button.stroke.medium {
@@ -743,7 +743,6 @@
 	 border: 0;
 	 padding: 0;
  }
- 
  
  /** 
   * ===================================================================
