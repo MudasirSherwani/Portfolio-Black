@@ -1502,12 +1502,11 @@
 	 margin-right: -30px;
 	 margin-left: -30px;
  }
- .intro-info img {
-	 height: 18rem;
-	 width: 18rem;
+ .profile-pic {
+	 height: 22rem;
+	 width: 22rem;
 	 border-radius: 50%;
 	 margin: .9rem 4rem 0 0;
-	 float: left;
  }
  .intro-info .lead {
 	 text-align: left;
@@ -1575,7 +1574,7 @@
 	 }
  }
  @media only screen and (max-width:768px) {
-	 .intro-info img {
+	 .profile-pic {
 		 height: 7.8rem;
 		 width: 7.8rem;
 	 }
@@ -1601,7 +1600,7 @@
 		 text-align: center;
 		 margin-top: 3rem;
 	 }
-	 .intro-info img {
+	 .profile-pic {
 		 height: 6.6rem;
 		 width: 6.6rem;
 		 float: none;
