@@ -1509,8 +1509,7 @@
 	 margin: .9rem 4rem 0 0;
  }
  .intro-info .lead {
-	 text-align: left;
-	 padding-left: 13rem;
+	 text-align: justify;
  }
  
  .about-content {
@@ -1578,9 +1577,6 @@
 		 height: 7.8rem;
 		 width: 7.8rem;
 	 }
-	 .intro-info .lead {
-		 padding-left: 11rem;
-	 }
 	 .about-content h3 {
 		 text-align: center;
 	 }
@@ -1607,8 +1603,7 @@
 		 display: inline-block;
 	 }
 	 .intro-info .lead {
-		 padding-left: 0;
-		 text-align: center;
+		 text-align: justify;
 	 }
  }
  
